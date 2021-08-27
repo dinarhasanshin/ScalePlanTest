@@ -37,7 +37,7 @@
     <RelativeLayout
         android:id="@+id/scale_layout"
         android:layout_width="match_parent"
-        android:layout_height="300"
+        android:layout_height="300dp"
         android:background="@color/teal_700"
         android:orientation="horizontal"
         android:scaleX="1"
